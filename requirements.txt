@@ -1,6 +1,5 @@
 Flask
 psycopg2-binary
-supabase
 Werkzeug
 gunicorn
 google-genai
@@ -8,3 +7,8 @@ requests
 flask-limiter
 flask-compress
 python-dotenv
+boto3
+flask-jwt-extended
+flask-bcrypt
+flask-cors
+PyJWT
